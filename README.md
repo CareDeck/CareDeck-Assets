@@ -2,4 +2,4 @@
 
 Public assets of CareDeck
 
-[logo](/repository-open-graph.png)
+![logo](/repository-open-graph.png)
